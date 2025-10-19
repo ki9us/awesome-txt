@@ -159,6 +159,28 @@ more often and loudly in the acts of his life...
 2019-06-16	3.46	29:26	08:30	# Ran the big hill
 ```
 
+[**vehicle.txt**](https://gitea.gf4.pw/ki9/vehicletxt) - A text format for keeping maintenance records for      vehicles.
+
+```
+# Previous owner
+2024-02-14  91,027  Previous title
+2024-04-21  93,837  Oil change
+
+# My ownership
+2025-02-11  98,239  Bought, titled
+2025-02-15  98,559  Oil change, oil filter ; 5W-30
+2025-03-20  98,689  Coolant flush
+2025-04-05  98,827  ATF change
+  Despite being a stick, this vehicle takes ATF.
+  It's in the manual, page 333
+2025-11-02  102,587 Oil change ; 5W-30
+
+ASAP  Brakes @30,000
+138,689 Coolant flush @40,000
+106,587 Oil change @4,000
+128,827 ATF change @30,000
+```
+
 
 ## Light Markup
 
